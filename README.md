@@ -1,8 +1,7 @@
 ### Hi! I'm Loes 🖖
 
 - 🚀 I'm making the switch from lawyer to web developer
-- ✨ Front-end is my thing
-- 💙 Was a legal counsel @ bol for years, and now I'm a starting dev at IT at the same company
+- 💙 Was a legal counsel @ bol for years, and now I'm a starting front end dev at IT at the same company
 - 👩‍💼 Expert on GDPR/privacy, IT-law & cookie legislation
 - 🏃‍♀️ Run a lot of marathons & ultramarathons
 
