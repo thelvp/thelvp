@@ -7,11 +7,11 @@ I'm making the switch from lawyer to web developer 🚀✨ As Captain James T. K
 - 🏃‍♀️ Love running marathons & ultramarathons
 - 🌱 I'm currently learning React & Ruby on rails
 
-**Let's get in touch**
+### Let's get in touch
 
 Feel free to send a message on [linkedin](linkedin.com/in/loesvanpuijenbroek) if you want to catch up, share insights, or just chat about all things tech and development!
 
-**What I'm familiar with**
+### What I'm familiar with
 <div align="left">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
