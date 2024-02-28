@@ -1,11 +1,13 @@
-### Hi there, I'm Loes! 👋
+### Hi! I'm Loes 🖖
 
-I was an attorney-at-law/legal counsel specialized in privacy & IT for almost 10 years. Now I'm making the switch from lawyer to web developer 🚀✨ As Captain James T. Kirk famously said, "to boldly go... where no Loes van Puijenbroek has gone before!" 
-
-Things to know about me:
-
-- ✨ Love all things front-end
-- 📚 Expert on GDPR/privacy, IT-law & cookie legislation
-- 🏃‍♀️ If I'm not coding, I'm running marathons & ultramarathons or reading a good fantasy novel
+- Making the switch from lawyer to web developer 🚀✨ 
+- On my way to becoming the best front end developer I can be.
+- Certified attorney-at-law with almost 10 years legal experience as attorney and legal counsel
+- Expert on GDPR/privacy, IT-law & cookie legislation
+- Love all things frontend
+- Run marathons in my spare time
 
 Let's get in touch! 
+
+
+
