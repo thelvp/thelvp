@@ -1,10 +1,11 @@
 ### Hi! I'm Loes 🖖
 
-- 🚀 I'm making the switch from lawyer to web developer
-- 💙 I'm currently working at bol as a front end developer - where I worked previously as a legal counsel
+I'm making the switch from lawyer to web developer 🚀✨ As Captain James T. Kirk famously said, "to boldly go... where no Loes van Puijenbroek has gone before!" 🌌 I love all things front-end but can also really appreciate backend.
+
+- 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
 - 👩‍💼 Expert on GDPR/privacy, IT-law & cookie legislation
-- 🌱 I'm currently learning React & Ruby on rails
 - 🏃‍♀️ Love running marathons & ultramarathons
+- 🌱 I'm currently learning React & Ruby on rails
 
 **Let's get in touch**
 
