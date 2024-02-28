@@ -1,6 +1,6 @@
 ### Hi! I'm Loes 🖖
 
-- 🚀 Making the switch from lawyer to web developer https://github.com/thelvp/thelvp/blob/main/README.md
+- 🚀 Making the switch from lawyer to web developer
 - ✨ Front-end is my thing
 - 👩‍💼 Expert on GDPR/privacy, IT-law & cookie legislation
 - 🏃‍♀️ Run a lot of marathons & ultramarathons
