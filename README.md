@@ -4,7 +4,7 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk fam
 
 - 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
 - 👩‍💼 Expert on GDPR/privacy, IT-law & cookie legislation
-- 🏃‍♀️ Love running marathons & ultramarathons
+- 🏃‍♀️ Run marathons & ultramarathons - goal: 100K race
 - 🌱 I'm now learning React & Ruby on rails
 
 ### Let's get in touch
