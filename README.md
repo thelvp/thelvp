@@ -3,7 +3,7 @@
 I'm making the switch from lawyer to web developer. As Captain James T. Kirk famously said, "to boldly go... where no Loes van Puijenbroek has gone before!" ✨🚀
 
 - 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
-- 👩‍💼 Legal expert on GDPR/privacy, IT-law, contracts & cookie legislation
+- 👩‍💼 Expert on GDPR/privacy, IT-law, contracts & cookie legislation
 - 🏃‍♀️ Run marathons & ultramarathons - goal: 100K race
 - 🌱 I'm now learning React & Ruby on rails
 
