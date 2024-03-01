@@ -1,17 +1,16 @@
 ### Hi! I'm Loes 🖖
 
-I'm making the switch from lawyer to web developer. As Captain James T. Kirk famously said, "to boldly go... where no Loes van Puijenbroek has gone before!" ✨🚀
+I'm making the switch from lawyer to web developer. As Captain James T. Kirk once famously said, "**to boldly go... where no Loes van Puijenbroek has gone before.**" ✨🚀
 
 - 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
-- 👩‍💼 Expert on GDPR/privacy, IT-law, contracts & cookie legislation
+- 👩‍💼 Expert on GDPR/privacy law, IT-law, contracts & cookie legislation
 - 👟 Run marathons & ultramarathons - goal: 100K race
 - 🌱 I'm now learning React & Ruby on rails
 
 ### Let's get in touch! 
 <a href="https://www.linkedin.com/in/loesvanpuijenbroek/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=white">
-</a>
-
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=white"> </a>
+   
 ### The obligatory language icons & cool stats 
 <div align="left">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -22,7 +21,6 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk fam
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/></code>
 </div>
-<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelvp&layout=compact&theme=light&langs_count=6" />
 
