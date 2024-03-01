@@ -22,7 +22,7 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk onc
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails"/></code>
 </div>
-
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelvp&layout=compact&theme=light&langs_count=6" />
 
 
