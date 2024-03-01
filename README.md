@@ -5,7 +5,7 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk onc
 - 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
 - 👩‍💼 Expert on GDPR/privacy law, IT-law, contracts & cookie legislation
 - 👟 I run marathons & ultramarathons for fun 
-- 🎶 Nerd (Star Trek, Tolkien), music lover (you can find me in the moshpit)
+- 🖖 Nerd (Star Trek, Tolkien, WoT), music lover (you can find me in the moshpit)
 - 🌱 Now learning React & Ruby on rails
 
 ### Let's get in touch! 
