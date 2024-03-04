@@ -1,4 +1,5 @@
 ### Hi! I'm Loes 🖖
+--------------------------------------
 
 I'm making the switch from lawyer to web developer. As Captain James T. Kirk once famously said, "**to boldly go... where no Loes van Puijenbroek has gone before.**" ✨🚀
 
@@ -8,11 +9,18 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk onc
 - 🖖 Nerd (Star Trek, Tolkien, WoT), music lover (you can find me in the moshpit)
 - 🌱 Now learning React & Ruby on rails
 
+Me when I make a button and it actually works: <br><br>
+<img src="https://media3.giphy.com/media/rIq6ASPIqo2k0/giphy.gif" width="15%" height="15%"/>
+
+
 ### Let's get in touch! 
+-----------------------------------
 <a href="https://www.linkedin.com/in/loesvanpuijenbroek/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black"> </a>
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black"> 
+</a>
    
 ### The obligatory language icons & cool stats 
+----------------------------------
 <div align="left">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -24,5 +32,3 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk onc
 </div>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelvp&layout=compact&theme=dark&langs_count=6" />
-
-
