@@ -9,7 +9,7 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk onc
 - 🖖 Nerd (Star Trek, Tolkien, WoT), music lover (you can find me in the moshpit)
 - 🌱 Now learning React & Ruby on rails
 
-Me when I make a button and it actually works: <br><br>
+Me when I make a button and it actually works: <br>
 <img src="https://media3.giphy.com/media/rIq6ASPIqo2k0/giphy.gif" width="15%" height="15%"/>
 
 
