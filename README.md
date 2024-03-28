@@ -8,7 +8,7 @@ I'm making the switch from lawyer to web developer. As Captain James T. Kirk onc
 - 👩‍💼 Expert on GDPR/privacy law, IT-law, contracts & cookie legislation
 - 👟 I run marathons & ultramarathons for fun 
 - 🖖 Nerd (Star Trek, Tolkien, WoT), music lover (you can find me in the moshpit)
-- 🌱 Now learning React & Ruby on rails
+- 🌱 Now learning React & Typescript
 
 Me when I make a button and it actually works: <br>
 <img src="https://media3.giphy.com/media/rIq6ASPIqo2k0/giphy.gif" width="15%" height="15%"/>
