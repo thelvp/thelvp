@@ -1,7 +1,7 @@
 ### Hi! I'm Loes 🖖
 --------------------------------------
 
-I'm making the switch from lawyer to web developer. As Captain James T. Kirk once famously said, "**to boldly go... where no Loes van Puijenbroek has gone before!**" ✨🚀
+I'm a lawyer and a web developer.
 
 - 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
 - ✨ Coding, especially frontend, makes me very happy
