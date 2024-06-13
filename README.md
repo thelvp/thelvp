@@ -5,7 +5,7 @@ I'm a lawyer and a web developer.
 
 - 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
 - ✨ Coding, especially frontend, makes me very happy
-- 👩‍💼 Expert on GDPR/privacy law, IT-law, contracts & cookie legislation
+- 👩‍💼 Expert on GDPR/privacy law, IT-law, contracts & cookie legislation with 9+ years of experience
 - 👟 I run marathons & ultramarathons for fun 
 - 🖖 Nerd (Star Trek, Tolkien, WoT), music lover (you can find me in the moshpit)
 - 🌱 Now learning React & Typescript
