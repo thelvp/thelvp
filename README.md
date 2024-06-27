@@ -13,13 +13,9 @@ I'm a lawyer and a web developer.
 Me when I make a button and it actually works: <br>
 <img src="https://media3.giphy.com/media/rIq6ASPIqo2k0/giphy.gif" width="15%" height="15%"/>
 
+Let's get in touch! 👉 [![Linkedin](https://i.sstatic.net/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/loesvanpuijenbroek)
+&nbsp;
 
-### Let's get in touch! 
------------------------------------
-<a href="https://www.linkedin.com/in/loesvanpuijenbroek/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black"> 
-</a>
-   
 ### The obligatory language icons & cool stats 
 ----------------------------------
 <div align="left">
