@@ -1,7 +1,7 @@
 ### Hi! I'm Loes 🖖
 --------------------------------------
 
-I'm a Software engineer and Tech lawyer.
+I'm a software engineer & tech lawyer.
 
 - 💙 I'm currently a front end developer at bol - where I used to be a legal counsel
 - ✨ Coding, especially frontend, makes me very happy
