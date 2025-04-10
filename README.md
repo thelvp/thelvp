@@ -8,7 +8,7 @@ I'm a software engineer & tech lawyer.
 - 👩‍💼 Expert on GDPR/privacy law, IT-law, contracts & cookie legislation with 9+ years of experience
 - 👟 I run marathons & ultramarathons for fun 
 - 🖖 Nerd (Star Trek, Tolkien, WoT), music lover (you can find me in the moshpit)
-- 🌱 Now focusing on React, Typescript and accessibility/A11Y
+- 🌱 Now focusing on React, GraphQL and accessibility/A11Y
 
 Me when I make a button and it actually works: <br>
 <img src="https://media3.giphy.com/media/rIq6ASPIqo2k0/giphy.gif" width="15%" height="15%"/>
