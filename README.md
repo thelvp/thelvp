@@ -16,7 +16,7 @@ Me when I make a button and it actually works: <br>
 Let's get in touch! 👉 [![Linkedin](https://i.sstatic.net/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/loesvanpuijenbroek)
 &nbsp;
 
-### The obligatory language icons & cool stats 
+#### The obligatory language icons & cool stats 
 ----------------------------------
 <div align="left">
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
