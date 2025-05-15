@@ -16,8 +16,6 @@ Me when I make a button and it actually works: <br>
 Let's get in touch! 👉 [![Linkedin](https://i.sstatic.net/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/loesvanpuijenbroek)
 &nbsp;
 
-#### The obligatory language icons & cool stats 
-----------------------------------
 <div align="left">
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
@@ -33,5 +31,5 @@ Let's get in touch! 👉 [![Linkedin](https://i.sstatic.net/gVE0j.png) My Linked
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelvp&layout=compact&theme=dark&langs_count=6" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelvp&layout=compact&theme=dark&langs_count=6" />
+ -->
