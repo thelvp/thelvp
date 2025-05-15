@@ -13,8 +13,8 @@ I'm a software engineer & tech lawyer.
 Me when I make a button and it actually works: <br>
 <img src="https://media3.giphy.com/media/rIq6ASPIqo2k0/giphy.gif" width="15%" height="15%"/>
 
-Let's get in touch! 👉 [![Linkedin](https://i.sstatic.net/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/loesvanpuijenbroek)
-&nbsp;
+**Let's get in touch! 👉 [![Linkedin](https://i.sstatic.net/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/loesvanpuijenbroek)
+&nbsp;**
 
 <div align="left">
 	<img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
